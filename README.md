@@ -11,7 +11,7 @@
 
 - 📝 I sometimes write articles on [https://medium.com/@ashuforshort](https://medium.com/@ashuforshort)
 
-- 📫 Reach out to me at **admin@ashuforshort.xyz**
+- 📫 Reach out to me at **admin@ashuforshort.xyz** or **ashutosh.30993@gmail.com**.
 
 - 📄 View my portfolio at [http://ashuforshort.xyz](http://ashuforshort.xyz)
 
