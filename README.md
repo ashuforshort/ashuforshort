@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Shukla</h1>
-<h3 align="center">I'm a Cloud Security Manager and a DevSecOps Practitioner.</h3>
+<h3 align="center">I'm a Senior Cloud Security Engineer and a DevSecOps Practitioner.</h3>
 
 - 🤝 I’m currently looking after multi-cloud security of India's leading OTT platform [Zee Entertainment Enterprises Limited](https://www.zee.com).
 
